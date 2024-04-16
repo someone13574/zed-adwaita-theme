@@ -1,0 +1,12 @@
+{
+    "name": "Zedwaita",
+    "version": "0.0.1",
+    "authors": [
+        "someone13574"
+    ],
+    "description": "Light and dark Adwaita theme for Zed.",
+    "repository": "https://github.com/someone13574/zed-awaita-theme",
+    "themes": {
+        "Zedwaita Dark": "themes/zedwaita.json"
+    }
+}
