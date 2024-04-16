@@ -1,0 +1,7 @@
+id = "zedwaita"
+name = "Zedwaita"
+version = "0.0.1"
+schema_version = 1
+authors = ["Owen Law <owenlaw222@gmail.com>"]
+description = "Light and dark Adwaita theme for Zed."
+repository = "https://github.com/someone13574/zed-awaita-theme"
