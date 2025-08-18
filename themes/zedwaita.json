@@ -381,7 +381,7 @@
                 "text.muted": "#00000080",
                 "text.placeholder": "#00000080",
                 "title_bar.background": "#ffffff",
-                "title_bar.inactive_background": "#fafafa",
+                "title_bar.inactive_background": "#26262a",
                 "toolbar.background": "#ffffff",
                 "warning": "#e5a50a",
                 "warning.background": "#e5a50a",
